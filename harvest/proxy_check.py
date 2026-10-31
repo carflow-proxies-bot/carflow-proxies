@@ -3,7 +3,7 @@
 
     python3 scripts/proxy_check.py [--sample 30] [--dir research/proxies]
 
-Код выхода 0 — всё в порядке; 1 — файлы старые (> 26 ч), пустые или живых в выборке < 50 %.
+Код выхода 0 — всё в порядке; 1 — списки сайтов старые (> 10 ч), почти пустые или живых в выборке < 50 %.
 """
 from __future__ import annotations
 
@@ -15,7 +15,15 @@ import time
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from proxy_harvest import REGIONS, _raise_nofile, encar_ok, pmap, site_ok, us_ok  # noqa: E402
+from proxy_harvest import ALL_SITES, SITE_URL, _raise_nofile, encar_ok, pmap, site_ok, us_ok  # noqa: E402
+
+
+def _check(site: str, url: str) -> bool:
+    if site == "copart":
+        return us_ok(url, 15) is not None
+    if site == "encar":
+        return encar_ok(url, 15) is not None
+    return site_ok(url, SITE_URL[site], 15) is not None
 
 
 def main() -> int:
@@ -25,38 +33,35 @@ def main() -> int:
     a = ap.parse_args()
     _raise_nofile()
     d = Path(a.dir)
-    f = d / "proxies_stable.txt"
-    if not f.exists():
-        print("НЕТ ФАЙЛА: сборщик ещё ни разу не отработал")
+    # Проверяются списки ПО САЙТУ (site_<сайт>.txt) — их и берут воркеры бокса. Раньше проверялись
+    # региональные (proxies_stable.txt: адрес пускает ВСЕ сайты региона), а они пустые: kbcha пускает
+    # только корейские адреса, encar — в основном некорейские, и общих нет. Запуск был красным при
+    # исправных списках (2026-10-31), и красный перестал что-либо значить.
+    lists = {s: [ln.strip() for ln in (d / f"site_{s}.txt").read_text().splitlines() if ln.strip()]
+             for s in ALL_SITES if (d / f"site_{s}.txt").exists()}
+    if not lists:
+        print("НЕТ ФАЙЛОВ site_*.txt: сборщик ещё ни разу не отработал")
         return 1
-    age_h = (time.time() - f.stat().st_mtime) / 3600
-    rows = [ln.split() for ln in f.read_text().splitlines() if ln.strip()]
+    age_h = (time.time() - max((d / f"site_{s}.txt").stat().st_mtime for s in lists)) / 3600
     all_n = sum(1 for ln in (d / "all_proxies.txt").read_text().splitlines() if ln.strip()) \
         if (d / "all_proxies.txt").exists() else 0
-    by_reg: dict[str, int] = {}
-    for r in rows:
-        for g in r[1].split(","):
-            by_reg[g] = by_reg.get(g, 0) + 1
-    print(f"обновлён {age_h:.1f} ч назад; стабильных {len(rows)} {by_reg}; всего живых {all_n}")
+    print(f"обновлён {age_h:.1f} ч назад; по сайтам { {s: len(v) for s, v in lists.items()} }; всего живых {all_n}")
 
-    sample = random.sample(rows, min(a.sample, len(rows)))
-
-    def one(r: list[str]) -> bool:
-        return all((us_ok(r[0], 15) is not None) if g == "US" else
-                   all((encar_ok(r[0], 15) if name == "encar" else site_ok(r[0], s, 15)) is not None
-                       for name, s in REGIONS[g].items())
-                   for g in r[1].split(","))
-
-    res = pmap(lambda r: (r, one(r)), sample, len(sample) or 1, 300)
-    # Порог — по не-американским строкам: США — горстка адресов за Imperva, их доля живых скачет
-    # сильнее, и красный запуск из-за неё прятал бы настоящие поломки KR/AE. США печатаем отдельно.
-    main_ = [ok for r, ok in (x for x in res if x) if "US" not in r[1].split(",")]
-    us_ = [ok for r, ok in (x for x in res if x) if "US" in r[1].split(",")]
+    # Выборка поровну по сайтам: иначе длинный список dubizzle забил бы всю выборку.
+    per = max(1, a.sample // max(1, len([s for s, v in lists.items() if v])))
+    sample = [(s, u) for s, v in lists.items() for u in random.sample(v, min(per, len(v)))]
+    res = [x for x in pmap(lambda su: (su[0], _check(*su)), sample, len(sample) or 1, 300) if x]
+    # Порог — без США: там горстка адресов за Imperva, доля живых скачет сильнее, и красный запуск из-за
+    # неё прятал бы настоящие поломки Кореи и ОАЭ. США печатаем отдельно.
+    main_ = [ok for s, ok in res if s != "copart"]
+    us_ = [ok for s, ok in res if s == "copart"]
+    by_site = {s: f"{sum(ok for x, ok in res if x == s)}/{sum(1 for x, _ in res if x == s)}" for s in lists}
     good = sum(main_)
     pct = 100 * good // len(main_) if main_ else 0
-    print(f"выборка KR/AE/GE: {good} из {len(main_)} прямо сейчас пускают на сайты ({pct} %); "
-          f"США: {sum(us_)} из {len(us_)}")
-    bad = age_h > 10 or len(rows) < 20 or pct < 50
+    print(f"выборка без США: {good} из {len(main_)} прямо сейчас пускают на свой сайт ({pct} %); "
+          f"США: {sum(us_)} из {len(us_)}; по сайтам {by_site}")
+    total = sum(len(v) for s, v in lists.items() if s != "copart")
+    bad = age_h > 10 or total < 20 or pct < 50
     print("ИТОГ:", "ПРОБЛЕМА" if bad else "OK")
     return 1 if bad else 0
 
