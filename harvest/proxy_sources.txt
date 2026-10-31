@@ -177,3 +177,12 @@ http https://raw.githubusercontent.com/databay-labs/free-proxy-list/master/by-co
 http https://raw.githubusercontent.com/databay-labs/free-proxy-list/master/by-country/jp/http.txt # ~13 ip:port, свежий 25.09
 mixed https://raw.githubusercontent.com/ProxyScrape/free-proxy-list/main/proxies/countries/tr/data.txt # ~27 ip:port, свежий 25.09
 mixed https://raw.githubusercontent.com/ProxyScrape/free-proxy-list/main/proxies/countries/jp/data.txt # ~17 ip:port, свежий 25.09
+# 2026-11-01: из 80 проверенных кандидатов (API proxyscrape/geonode/proxy-list.download, spys.me, openproxylist,
+# proxyspace, free-proxy-list.net и ~50 репозиториев) НОВЫЕ адреса дали только эти; остальные — подмножество уже
+# собранных 372 тыс. (в т.ч. все корейские списки по стране).
+http https://raw.githubusercontent.com/FifzzSENZE/Master-Proxy/master/proxies/http.txt
+http https://raw.githubusercontent.com/zebbern/Proxy-Scraper/main/http.txt
+http https://raw.githubusercontent.com/trio666/proxy-checker/main/http.txt
+socks5 https://raw.githubusercontent.com/dinoz0rg/proxy-list/main/scraped_proxies/socks5.txt
+socks5 https://raw.githubusercontent.com/ALIILAPRO/Proxy/main/socks5.txt
+socks5 https://openproxylist.xyz/socks5.txt
