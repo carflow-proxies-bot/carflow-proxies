@@ -1,52 +1,11 @@
 {
- "socks5://46.8.158.144:10800": {
-  "sites": [
-   "encar"
-  ],
-  "regions": [],
-  "ms": 1905,
-  "country": "RU"
- },
- "socks4://67.206.213.202:55555": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 900,
-  "country": "PR"
- },
- "socks4://195.225.49.137:55774": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2030,
-  "country": "UA"
- },
  "http://152.70.15.192:8888": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 852,
+  "ms": 549,
   "country": "DE"
- },
- "http://103.39.51.121:8080": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 1189,
-  "country": "ID"
- },
- "socks4://172.81.111.156:10001": {
-  "sites": [
-   "encar"
-  ],
-  "regions": [],
-  "ms": 1242,
-  "country": "HK"
  },
  "socks4://186.225.149.90:4145": {
   "sites": [
@@ -54,291 +13,183 @@
    "encar"
   ],
   "regions": [],
-  "ms": 1630,
+  "ms": 1300,
   "country": "BR"
  },
- "http://138.124.53.81:8080": {
+ "socks5://45.61.129.165:9050": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 1523,
-  "country": "DE"
+  "ms": 2823,
+  "country": "NL"
  },
- "socks5://108.181.132.59:8081": {
-  "sites": [
-   "copart"
-  ],
-  "regions": [
-   "US"
-  ],
-  "ms": 1587,
-  "country": "US"
- },
- "socks4://179.189.254.217:5432": {
+ "http://103.39.51.121:8080": {
   "sites": [
    "dubizzle",
    "encar"
   ],
   "regions": [],
-  "ms": 2993,
+  "ms": 1549,
+  "country": "ID"
+ },
+ "socks4://91.192.25.37:80": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 2588,
+  "country": "IT"
+ },
+ "socks4://177.74.141.8:5432": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 6499,
   "country": "BR"
  },
- "socks5://112.121.173.84:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1516,
-  "country": "HK"
- },
- "http://45.149.24.241:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3683,
-  "country": "TR"
- },
- "socks4://149.248.18.106:1081": {
+ "socks4://45.115.115.37:9090": {
   "sites": [
    "encar"
   ],
   "regions": [],
-  "ms": 1479,
-  "country": "CA"
+  "ms": 5202,
+  "country": "BD"
  },
- "socks4://109.61.117.11:1080": {
+ "socks5://195.46.183.181:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 1528,
-  "country": "HU"
- },
- "http://103.39.75.123:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3924,
-  "country": "ID"
- },
- "socks4://175.100.37.171:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3964,
-  "country": "KH"
+  "ms": 1462,
+  "country": "RU"
  },
  "socks4://205.177.85.130:39593": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 4058,
+  "ms": 6064,
   "country": "JP"
+ },
+ "socks4://94.247.241.70:51006": {
+  "sites": [
+   "encar"
+  ],
+  "regions": [],
+  "ms": 1552,
+  "country": "RU"
+ },
+ "http://83.45.174.187:8080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 5525,
+  "country": "ES"
+ },
+ "socks5://5.141.29.96:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 1387,
+  "country": "RU"
+ },
+ "socks4://103.216.50.210:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3726,
+  "country": "KH"
+ },
+ "http://61.130.176.21:16299": {
+  "sites": [
+   "dubizzle",
+   "encar"
+  ],
+  "regions": [],
+  "ms": 4384,
+  "country": "CN"
  },
  "socks4://154.18.220.190:5678": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 2370,
+  "ms": 6095,
   "country": "MM"
- },
- "socks4://185.95.186.165:48293": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2367,
-  "country": "IQ"
- },
- "socks4://103.185.250.136:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3642,
-  "country": "BD"
- },
- "socks4://49.0.156.20:32000": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 6188,
-  "country": "MN"
- },
- "http://201.71.137.90:5128": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5903,
-  "country": "BR"
- },
- "http://45.174.175.26:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5840,
-  "country": "MX"
- },
- "http://38.75.80.32:999": {
-  "sites": [
-   "encar"
-  ],
-  "regions": [],
-  "ms": 5775,
-  "country": "DO"
- },
- "socks4://103.42.202.190:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5025,
-  "country": "BD"
- },
- "http://172.236.210.118:3128": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5013,
-  "country": "DE"
- },
- "http://181.78.44.63:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5116,
-  "country": "HN"
- },
- "socks4://103.10.99.110:5678": {
-  "sites": [
-   "encar"
-  ],
-  "regions": [],
-  "ms": 2460,
-  "country": "ID"
- },
- "http://38.225.40.143:465": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4167,
-  "country": "VE"
  },
  "socks4://196.0.111.186:46048": {
   "sites": [
-   "dubizzle"
+   "dubizzle",
+   "encar"
   ],
   "regions": [],
-  "ms": 4830,
+  "ms": 4238,
   "country": "UG"
  },
- "socks5://188.120.203.191:1080": {
+ "socks5://45.74.31.47:4404": {
   "sites": [
-   "dubizzle"
+   "copart"
   ],
-  "regions": [],
-  "ms": 6136,
-  "country": "CZ"
+  "regions": [
+   "US"
+  ],
+  "ms": 4656,
+  "country": "US"
  },
- "socks5://82.22.7.240:1080": {
+ "http://103.133.26.50:8080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 13855,
-  "country": "FR"
- },
- "socks4://46.151.118.108:5678": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4971,
-  "country": "PL"
- },
- "http://45.227.195.121:8082": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5246,
-  "country": "BR"
- },
- "socks4://103.122.32.62:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5403,
+  "ms": 2516,
   "country": "ID"
  },
- "http://103.66.62.177:8080": {
+ "http://188.132.150.235:8080": {
   "sites": [
-   "dubizzle"
+   "encar"
   ],
   "regions": [],
-  "ms": 6427,
-  "country": "ID"
- },
- "http://181.233.50.233:8787": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3218,
-  "country": "EC"
- },
- "http://205.234.123.108:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5067,
+  "ms": 5203,
   "country": "TR"
  },
- "http://103.78.98.74:8888": {
+ "socks4://154.79.246.102:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 13141,
-  "country": "ID"
- },
- "http://155.93.96.210:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 7986,
-  "country": "NG"
- },
- "http://38.51.243.189:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 8293,
-  "country": "CO"
+  "ms": 7308,
+  "country": "KE"
  },
  "socks5://103.100.158.115:10809": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 16612,
+  "ms": 23191,
   "country": "JP"
+ },
+ "socks5://49.13.22.249:10802": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 2783,
+  "country": "IT"
+ },
+ "socks5://45.74.31.46:16521": {
+  "sites": [
+   "copart"
+  ],
+  "regions": [
+   "US"
+  ],
+  "ms": 9979,
+  "country": "US"
  },
  "http://50.16.2.224:1001": {
   "sites": [
@@ -348,7 +199,7 @@
   "regions": [
    "US"
   ],
-  "ms": 642,
+  "ms": 613,
   "country": "US"
  },
  "http://38.180.18.103:3128": {
@@ -356,16 +207,16 @@
    "dubizzle"
   ],
   "regions": [],
-  "ms": 751,
+  "ms": 749,
   "country": "BE"
  },
- "http://39.106.170.168:8080": {
+ "socks4://31.42.2.113:5678": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 1839,
-  "country": "CN"
+  "ms": 1933,
+  "country": "PL"
  },
  "socks4://186.225.149.81:4145": {
   "sites": [
@@ -373,60 +224,36 @@
    "encar"
   ],
   "regions": [],
-  "ms": 1455,
+  "ms": 1599,
   "country": "BR"
  },
- "http://45.194.41.103:8080": {
+ "socks4://69.55.49.177:38182": {
+  "sites": [
+   "copart"
+  ],
+  "regions": [
+   "US"
+  ],
+  "ms": 1114,
+  "country": "US"
+ },
+ "http://39.106.170.168:8080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 1417,
-  "country": "IN"
+  "ms": 2938,
+  "country": "CN"
  },
  "http://187.102.219.32:999": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 1749,
+  "ms": 1489,
   "country": "AR"
  },
- "socks4://79.98.32.110:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1553,
-  "country": "TR"
- },
- "socks5://46.232.249.209:40001": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1103,
-  "country": "DE"
- },
- "http://103.133.26.73:3128": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 1372,
-  "country": "ID"
- },
- "socks4://165.99.90.2:1080": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 2356,
-  "country": "BD"
- },
- "socks5://45.61.188.134:44499": {
+ "socks5://69.55.49.177:38182": {
   "sites": [
    "copart"
   ],
@@ -436,95 +263,307 @@
   "ms": 1104,
   "country": "US"
  },
- "socks4://181.57.178.146:1080": {
+ "socks4://165.99.90.2:1080": {
+  "sites": [
+   "dubizzle",
+   "encar"
+  ],
+  "regions": [],
+  "ms": 2646,
+  "country": "BD"
+ },
+ "http://147.161.246.246:11706": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 4843,
-  "country": "CO"
+  "ms": 12589,
+  "country": "CH"
  },
- "socks4://27.72.122.228:51067": {
+ "socks4://77.238.79.111:5678": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 5418,
-  "country": "VN"
+  "ms": 4814,
+  "country": "BG"
  },
- "socks4://200.125.40.38:5678": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2850,
-  "country": "UY"
- },
- "socks4://202.142.170.115:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 6446,
-  "country": "PK"
- },
- "http://38.183.184.15:999": {
+ "http://103.80.83.65:1080": {
   "sites": [
    "encar"
   ],
   "regions": [],
-  "ms": 4117,
-  "country": "VE"
+  "ms": 1355,
+  "country": "ID"
  },
- "socks4://103.87.81.86:5678": {
+ "socks4://103.167.187.4:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 2191,
-  "country": "ID"
+  "ms": 4920,
+  "country": "NP"
  },
- "socks4://103.23.100.9:1080": {
+ "http://45.65.138.48:999": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 7533,
-  "country": "ID"
+  "ms": 3255,
+  "country": "CO"
+ },
+ "socks4://91.150.189.122:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3702,
+  "country": "PL"
+ },
+ "socks4://183.106.215.208:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 2100,
+  "country": "KR"
+ },
+ "socks4://46.8.48.143:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3915,
+  "country": "RU"
+ },
+ "socks4://116.212.156.72:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3217,
+  "country": "KH"
+ },
+ "http://177.234.217.235:999": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3341,
+  "country": "EC"
  },
  "socks4://122.252.179.66:5678": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 2684,
+  "ms": 2144,
   "country": "KH"
  },
- "socks4://60.217.64.237:35292": {
+ "socks5://103.191.218.119:69": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 3654,
+  "ms": 7127,
+  "country": "ID"
+ },
+ "http://149.86.142.224:8080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 7172,
+  "country": "TR"
+ },
+ "http://47.114.165.250:8222": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 4127,
   "country": "CN"
  },
- "socks4://103.167.40.54:1080": {
+ "socks4://200.125.40.38:5678": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 5691,
+  "ms": 2478,
+  "country": "UY"
+ },
+ "socks5://118.179.136.122:9090": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 4721,
   "country": "BD"
  },
- "socks5://138.124.66.203:1080": {
+ "socks4://103.31.103.71:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 1615,
-  "country": "DE"
+  "ms": 5539,
+  "country": "PK"
  },
- "socks4://47.85.37.60:1080": {
+ "socks5://45.74.31.40:7862": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 6302,
+  "country": "MG"
+ },
+ "http://103.239.41.185:8080": {
+  "sites": [
+   "encar"
+  ],
+  "regions": [],
+  "ms": 7521,
+  "country": "ID"
+ },
+ "socks5://208.92.216.54:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 2008,
+  "country": "US"
+ },
+ "http://181.62.249.189:8081": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 4994,
+  "country": "CO"
+ },
+ "http://187.102.219.42:999": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 8711,
+  "country": "AR"
+ },
+ "socks4://103.37.82.134:39873": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 7605,
+  "country": "IN"
+ },
+ "http://38.19.43.105:999": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 7563,
+  "country": "CO"
+ },
+ "socks4://102.36.231.77:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 9318,
+  "country": "NG"
+ },
+ "socks5://45.74.31.40:15623": {
+  "sites": [
+   "copart"
+  ],
+  "regions": [
+   "US"
+  ],
+  "ms": 8663,
+  "country": "US"
+ },
+ "socks5://65.21.252.66:10805": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3979,
+  "country": "US"
+ },
+ "socks4://185.244.158.4:3129": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 1119,
+  "country": "UA"
+ },
+ "socks4://185.17.133.128:1080": {
+  "sites": [
+   "dubizzle",
+   "encar"
+  ],
+  "regions": [],
+  "ms": 1508,
+  "country": "RU"
+ },
+ "socks4://46.188.2.42:5678": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 2526,
+  "country": "RU"
+ },
+ "http://45.189.57.114:3129": {
+  "sites": [
+   "encar"
+  ],
+  "regions": [],
+  "ms": 1124,
+  "country": "EC"
+ },
+ "http://82.152.138.127:999": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 1483,
+  "country": "MX"
+ },
+ "socks4://103.178.120.53:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 1890,
+  "country": "PK"
+ },
+ "socks4://182.93.75.162:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3153,
+  "country": "NP"
+ },
+ "socks4://190.18.170.230:5678": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3744,
+  "country": "AR"
+ },
+ "http://114.55.168.172:8080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 2232,
+  "country": "CN"
+ },
+ "socks4://12.218.209.130:13326": {
   "sites": [
    "copart",
    "dubizzle"
@@ -532,180 +571,49 @@
   "regions": [
    "US"
   ],
-  "ms": 825,
+  "ms": 2512,
   "country": "US"
  },
- "socks4://152.70.237.238:3128": {
+ "socks4://50.233.111.162:32100": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 2833,
-  "country": "KR"
- },
- "http://177.234.217.235:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3484,
-  "country": "EC"
- },
- "socks4://155.117.120.32:1080": {
-  "sites": [
-   "copart"
-  ],
-  "regions": [
-   "US"
-  ],
-  "ms": 2463,
+  "ms": 2292,
   "country": "US"
  },
- "http://103.217.179.216:8080": {
+ "http://103.133.26.72:8080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 5038,
-  "country": "PK"
+  "ms": 3833,
+  "country": "ID"
  },
- "socks4://190.109.72.17:33633": {
+ "socks4://83.56.15.57:5678": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 5037,
-  "country": "BR"
+  "ms": 3102,
+  "country": "ES"
  },
- "http://154.208.58.89:8080": {
+ "socks4://94.253.95.241:3629": {
   "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5224,
-  "country": "PK"
- },
- "http://157.10.226.93:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 6885,
-  "country": "PK"
- },
- "http://41.65.162.72:1981": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 10018,
-  "country": "EG"
- },
- "socks5://65.21.252.66:10805": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 6992,
-  "country": "GB"
- },
- "http://213.169.33.3:8001": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 7129,
-  "country": "BG"
- },
- "http://82.152.138.127:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1990,
-  "country": "MX"
- },
- "socks4://181.236.221.138:4145": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3030,
-  "country": "CO"
- },
- "socks5://195.13.182.211:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2724,
-  "country": "LV"
- },
- "socks5://5.255.117.127:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 964,
-  "country": "NL"
- },
- "http://46.161.49.174:10809": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 9185,
-  "country": "PL"
- },
- "socks4://190.89.104.88:5432": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3492,
-  "country": "BR"
- },
- "http://45.189.57.114:3129": {
-  "sites": [
+   "dubizzle",
    "encar"
   ],
   "regions": [],
-  "ms": 1511,
-  "country": "EC"
+  "ms": 3019,
+  "country": "RU"
  },
- "http://111.92.88.27:3128": {
+ "socks4://88.245.138.87:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 7403,
-  "country": "IN"
- },
- "http://120.76.101.238:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3286,
-  "country": "CN"
- },
- "socks5://45.74.31.40:16769": {
-  "sites": [
-   "copart"
-  ],
-  "regions": [
-   "US"
-  ],
-  "ms": 2009,
-  "country": "US"
- },
- "http://114.55.168.172:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1731,
-  "country": "CN"
+  "ms": 3496,
+  "country": "TR"
  },
  "socks5://45.74.31.40:16914": {
   "sites": [
@@ -714,207 +622,34 @@
   "regions": [
    "US"
   ],
-  "ms": 1978,
+  "ms": 4428,
   "country": "US"
  },
- "socks4://182.93.75.162:1080": {
+ "socks4://202.5.50.151:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 3915,
-  "country": "NP"
- },
- "http://187.102.219.64:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3230,
-  "country": "AR"
- },
- "socks5://91.107.179.68:10809": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2513,
-  "country": "DE"
- },
- "http://38.210.179.65:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3331,
-  "country": "MX"
- },
- "socks5://45.74.31.42:15164": {
-  "sites": [
-   "copart"
-  ],
-  "regions": [
-   "US"
-  ],
-  "ms": 3583,
-  "country": "US"
- },
- "http://193.43.140.129:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4634,
-  "country": "SY"
- },
- "socks4://195.138.65.34:5678": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5908,
-  "country": "UA"
+  "ms": 5818,
+  "country": "BD"
  },
  "socks4://117.4.26.246:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 3502,
+  "ms": 5549,
   "country": "VN"
  },
- "http://170.244.91.129:999": {
+ "http://161.22.32.31:8080": {
   "sites": [
-   "dubizzle",
-   "encar"
+   "dubizzle"
   ],
   "regions": [],
-  "ms": 5060,
+  "ms": 3451,
   "country": "VE"
  },
- "http://68.225.17.237:4228": {
-  "sites": [
-   "copart"
-  ],
-  "regions": [
-   "US"
-  ],
-  "ms": 3722,
-  "country": "US"
- },
- "http://190.97.232.128:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3336,
-  "country": "VE"
- },
- "http://165.16.17.189:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5351,
-  "country": "LY"
- },
- "http://190.94.102.251:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4587,
-  "country": "DO"
- },
- "http://118.136.142.110:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 8854,
-  "country": "ID"
- },
- "http://2.139.41.14:3128": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 6285,
-  "country": "ES"
- },
- "http://181.78.175.66:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3745,
-  "country": "CO"
- },
- "socks4://88.245.138.87:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2165,
-  "country": "TR"
- },
- "socks4://114.130.89.94:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2034,
-  "country": "BD"
- },
- "http://194.124.37.119:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3711,
-  "country": "TR"
- },
- "socks4://103.161.62.29:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 9457,
-  "country": "ID"
- },
- "http://190.94.212.64:999": {
-  "sites": [
-   "encar"
-  ],
-  "regions": [],
-  "ms": 3624,
-  "country": "VE"
- },
- "http://145.236.157.134:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 6954,
-  "country": "HU"
- },
- "http://103.38.101.194:1111": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 7320,
-  "country": "ID"
- },
- "http://91.203.242.66:222": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 7041,
-  "country": "RU"
- },
- "socks4://50.233.111.162:32100": {
+ "http://91.107.186.23:8081": {
   "sites": [
    "copart",
    "dubizzle"
@@ -922,24 +657,68 @@
   "regions": [
    "US"
   ],
-  "ms": 4558,
+  "ms": 4964,
   "country": "US"
  },
- "socks5://67.210.146.50:11080": {
+ "http://164.163.73.5:999": {
+  "sites": [
+   "encar"
+  ],
+  "regions": [],
+  "ms": 2656,
+  "country": "HN"
+ },
+ "http://185.146.138.151:8080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 4806,
-  "country": "US"
+  "ms": 5591,
+  "country": "SY"
  },
- "http://45.190.85.4:999": {
+ "http://188.136.162.131:8080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 5246,
-  "country": "VE"
+  "ms": 1958,
+  "country": "IR"
+ },
+ "socks4://193.43.159.161:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 6042,
+  "country": "SY"
+ },
+ "http://190.14.251.202:8080": {
+  "sites": [
+   "encar"
+  ],
+  "regions": [],
+  "ms": 6355,
+  "country": "CO"
+ },
+ "socks5://45.74.31.46:4076": {
+  "sites": [
+   "copart"
+  ],
+  "regions": [
+   "US"
+  ],
+  "ms": 8688,
+  "country": "US"
+ },
+ "socks5://45.74.31.46:4448": {
+  "sites": [
+   "copart"
+  ],
+  "regions": [
+   "US"
+  ],
+  "ms": 8477,
+  "country": "US"
  },
  "socks5://107.174.30.92:1080": {
   "sites": [
@@ -948,8 +727,28 @@
   "regions": [
    "US"
   ],
-  "ms": 642,
+  "ms": 897,
   "country": "US"
+ },
+ "http://207.157.220.8:8080": {
+  "sites": [
+   "copart",
+   "dubizzle",
+   "encar"
+  ],
+  "regions": [
+   "US"
+  ],
+  "ms": 693,
+  "country": "US"
+ },
+ "http://103.237.102.191:11111": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 823,
+  "country": "DE"
  },
  "http://189.51.168.165:999": {
   "sites": [
@@ -957,25 +756,16 @@
    "encar"
   ],
   "regions": [],
-  "ms": 702,
+  "ms": 2987,
   "country": "MX"
  },
- "http://189.51.168.164:999": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 695,
-  "country": "MX"
- },
- "socks4://193.158.12.141:4153": {
+ "http://103.39.49.204:3128": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 1221,
-  "country": "DE"
+  "ms": 1690,
+  "country": "ID"
  },
  "socks4://186.225.132.10:4145": {
   "sites": [
@@ -983,76 +773,75 @@
    "encar"
   ],
   "regions": [],
-  "ms": 1326,
+  "ms": 1525,
   "country": "BR"
  },
- "socks4://190.89.104.76:5432": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1487,
-  "country": "BR"
- },
- "socks4://36.64.40.173:5678": {
+ "http://189.51.168.164:999": {
   "sites": [
    "dubizzle",
    "encar"
   ],
   "regions": [],
-  "ms": 2046,
+  "ms": 1634,
+  "country": "MX"
+ },
+ "socks4://14.241.242.177:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3882,
+  "country": "VN"
+ },
+ "socks4://210.22.100.242:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 2124,
+  "country": "CN"
+ },
+ "socks4://31.43.33.56:4153": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 2346,
+  "country": "UA"
+ },
+ "socks4://103.26.209.206:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 1860,
   "country": "ID"
  },
- "http://103.39.49.204:3128": {
+ "socks4://103.177.20.27:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 1921,
+  "ms": 2981,
   "country": "ID"
  },
- "socks4://103.248.9.69:80": {
+ "socks4://200.16.211.68:4153": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 3990,
-  "country": "ID"
+  "ms": 2531,
+  "country": "AR"
  },
- "http://187.0.36.2:8080": {
+ "socks5://43.155.128.61:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 2956,
-  "country": "BR"
+  "ms": 2224,
+  "country": "KR"
  },
- "socks4://138.255.240.66:40736": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 2764,
-  "country": "BR"
- },
- "socks4://143.208.130.155:5678": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1753,
-  "country": "BR"
- },
- "http://206.245.135.193:8888": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5793,
-  "country": "FI"
- },
- "socks4://47.176.213.210:39593": {
+ "socks4://64.49.67.164:5678": {
   "sites": [
    "copart",
    "dubizzle"
@@ -1060,153 +849,31 @@
   "regions": [
    "US"
   ],
-  "ms": 656,
+  "ms": 3790,
   "country": "US"
  },
- "socks4://83.218.186.22:5678": {
+ "http://15.229.149.81:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 5664,
-  "country": "AT"
- },
- "socks4://183.6.57.161:5678": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3014,
-  "country": "CN"
- },
- "socks4://179.189.249.61:5432": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3533,
+  "ms": 4317,
   "country": "BR"
- },
- "socks4://210.22.100.242:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2369,
-  "country": "CN"
  },
  "http://45.186.6.104:3128": {
   "sites": [
    "encar"
   ],
   "regions": [],
-  "ms": 1118,
+  "ms": 1495,
   "country": "EC"
  },
- "socks4://213.21.53.119:4153": {
+ "socks4://103.154.76.90:12": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 2856,
-  "country": "RU"
- },
- "http://186.96.111.214:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3111,
-  "country": "CO"
- },
- "socks4://182.253.144.20:4153": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2626,
-  "country": "ID"
- },
- "socks5://43.161.199.217:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4025,
-  "country": "HK"
- },
- "socks5://138.2.216.186:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 6415,
-  "country": "US"
- },
- "http://31.24.252.97:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4808,
-  "country": "IQ"
- },
- "http://195.158.8.123:3128": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5043,
-  "country": "UZ"
- },
- "socks4://103.161.62.153:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4958,
-  "country": "ID"
- },
- "socks4://187.86.153.254:30660": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3858,
-  "country": "BR"
- },
- "socks5://49.13.22.249:10805": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 4986,
-  "country": "AU"
- },
- "socks5://45.74.31.46:16021": {
-  "sites": [
-   "encar"
-  ],
-  "regions": [],
-  "ms": 5076,
-  "country": "MG"
- },
- "socks4://103.156.15.129:12": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4317,
-  "country": "ID"
- },
- "http://157.20.144.179:8080": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 2960,
+  "ms": 4358,
   "country": "ID"
  },
  "socks4://125.25.82.207:5678": {
@@ -1214,249 +881,116 @@
    "dubizzle"
   ],
   "regions": [],
-  "ms": 3489,
+  "ms": 3246,
   "country": "TH"
  },
- "http://168.138.202.218:3128": {
+ "http://45.236.66.163:8520": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 7571,
-  "country": "JP"
+  "ms": 5885,
+  "country": "BR"
  },
- "http://201.4.68.113:8080": {
+ "http://49.151.178.41:8082": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 4170,
-  "country": "TR"
+  "ms": 9644,
+  "country": "PH"
  },
- "http://103.39.51.233:8085": {
+ "socks4://103.154.53.230:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 6255,
+  "ms": 6044,
   "country": "ID"
  },
- "http://103.55.225.54:8080": {
+ "socks4://183.88.219.206:34676": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 4451,
+  "ms": 3772,
+  "country": "TH"
+ },
+ "http://103.171.183.118:8080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 1849,
   "country": "ID"
  },
- "http://177.234.217.46:999": {
+ "http://195.158.8.123:3128": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 3295,
-  "country": "EC"
+  "ms": 3806,
+  "country": "UZ"
  },
- "http://121.43.196.213:8222": {
+ "http://31.24.252.97:8080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 1777,
-  "country": "CN"
+  "ms": 6256,
+  "country": "IQ"
  },
- "socks4://103.151.155.18:11080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 8376,
-  "country": "ID"
- },
- "socks4://103.161.62.5:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5667,
-  "country": "ID"
- },
- "socks4://185.215.53.253:3629": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 6668,
-  "country": "AM"
- },
- "http://212.200.223.89:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5825,
-  "country": "RS"
- },
- "socks5://45.74.31.42:12421": {
+ "socks4://152.70.156.142:1080": {
   "sites": [
    "copart"
   ],
   "regions": [
    "US"
   ],
-  "ms": 7505,
+  "ms": 1346,
   "country": "US"
  },
- "http://195.123.190.38:8080": {
+ "socks5://79.137.160.138:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 7439,
-  "country": "TR"
+  "ms": 6380,
+  "country": "RU"
  },
- "http://177.234.217.43:999": {
+ "socks4://170.247.43.142:32812": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 6434,
-  "country": "EC"
+  "ms": 5290,
+  "country": "BR"
  },
- "socks5://171.25.158.95:1080": {
+ "http://180.211.93.110:8080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 8113,
-  "country": "SE"
+  "ms": 4481,
+  "country": "ID"
  },
- "socks5://103.138.145.150:1999": {
+ "socks4://109.235.188.171:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 7465,
-  "country": "BD"
+  "ms": 5218,
+  "country": "RU"
  },
- "socks4://101.36.112.205:1081": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 10539,
-  "country": "HK"
- },
- "socks5://103.192.80.81:1088": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 12957,
-  "country": "AU"
- },
- "socks5://193.25.215.182:22222": {
+ "socks5://138.2.216.186:1080": {
   "sites": [
    "copart"
   ],
   "regions": [
    "US"
   ],
-  "ms": 616,
+  "ms": 5240,
   "country": "US"
- },
- "socks4://103.153.247.74:12": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1704,
-  "country": "ID"
- },
- "socks4://46.55.3.113:4145": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1332,
-  "country": "MD"
- },
- "socks5://39.106.165.196:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1628,
-  "country": "CN"
- },
- "socks5://149.248.18.106:1081": {
-  "sites": [
-   "encar"
-  ],
-  "regions": [],
-  "ms": 1482,
-  "country": "CA"
- },
- "http://103.133.26.119:8080": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 1884,
-  "country": "ID"
- },
- "socks4://165.99.90.3:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1743,
-  "country": "BD"
- },
- "socks5://45.74.31.40:8195": {
-  "sites": [
-   "copart"
-  ],
-  "regions": [
-   "US"
-  ],
-  "ms": 2123,
-  "country": "US"
- },
- "socks4://103.102.141.40:4145": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4226,
-  "country": "ID"
- },
- "socks5://45.74.31.46:9211": {
-  "sites": [
-   "copart"
-  ],
-  "regions": [
-   "US"
-  ],
-  "ms": 2388,
-  "country": "US"
- },
- "socks4://195.78.113.38:4153": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1912,
-  "country": "UA"
- },
- "socks4://113.161.6.170:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4695,
-  "country": "VN"
  },
  "http://69.87.216.54:7989": {
   "sites": [
@@ -1466,142 +1000,8 @@
   "regions": [
    "US"
   ],
-  "ms": 311,
+  "ms": 361,
   "country": "US"
- },
- "http://2.28.105.45:8888": {
-  "sites": [
-   "copart",
-   "dubizzle"
-  ],
-  "regions": [
-   "US"
-  ],
-  "ms": 1605,
-  "country": "US"
- },
- "http://46.232.249.209:40001": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 830,
-  "country": "DE"
- },
- "socks4://202.146.230.102:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4648,
-  "country": "ID"
- },
- "socks5://45.74.31.42:12424": {
-  "sites": [
-   "copart"
-  ],
-  "regions": [
-   "US"
-  ],
-  "ms": 2518,
-  "country": "US"
- },
- "http://182.253.109.30:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1888,
-  "country": "ID"
- },
- "socks4://160.30.104.170:1080": {
-  "sites": [
-   "encar"
-  ],
-  "regions": [],
-  "ms": 4126,
-  "country": "PK"
- },
- "socks4://103.102.142.98:4145": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 7448,
-  "country": "ID"
- },
- "socks5://145.255.239.78:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1434,
-  "country": "RU"
- },
- "socks4://188.72.16.74:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3080,
-  "country": "IQ"
- },
- "http://38.210.179.25:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3779,
-  "country": "MX"
- },
- "socks4://177.152.106.74:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 6223,
-  "country": "BR"
- },
- "socks4://202.166.196.105:48293": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3405,
-  "country": "NP"
- },
- "http://181.119.84.80:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2858,
-  "country": "CO"
- },
- "socks4://196.0.113.10:31651": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 8422,
-  "country": "UG"
- },
- "socks4://121.139.218.165:43295": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5884,
-  "country": "KR"
- },
- "socks5://203.189.135.105:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 10391,
-  "country": "KH"
  },
  "http://162.35.110.218:8080": {
   "sites": [
@@ -1611,180 +1011,233 @@
   "regions": [
    "US"
   ],
-  "ms": 564,
+  "ms": 535,
   "country": "US"
  },
- "http://155.133.7.49:3128": {
+ "socks5://157.254.223.42:1080": {
   "sites": [
+   "copart",
    "dubizzle"
   ],
-  "regions": [],
-  "ms": 6203,
-  "country": "JP"
- },
- "socks4://95.46.105.163:4145": {
-  "sites": [
-   "dubizzle"
+  "regions": [
+   "US"
   ],
-  "regions": [],
-  "ms": 2496,
-  "country": "RU"
+  "ms": 691,
+  "country": "US"
  },
- "socks4://45.118.77.67:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4632,
-  "country": "KH"
- },
- "http://98.154.21.253:4228": {
+ "socks5://193.25.215.182:22222": {
   "sites": [
    "copart"
   ],
   "regions": [
    "US"
   ],
-  "ms": 3722,
+  "ms": 948,
   "country": "US"
  },
- "http://38.50.165.123:999": {
+ "socks4://46.10.198.10:4153": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 5443,
-  "country": "DO"
+  "ms": 2986,
+  "country": "BG"
  },
- "http://186.151.139.107:8080": {
+ "socks4://165.99.90.3:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 1642,
+  "country": "BD"
+ },
+ "http://39.106.165.196:8080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 1828,
+  "country": "CN"
+ },
+ "socks4://108.181.132.59:8081": {
+  "sites": [
+   "copart"
+  ],
+  "regions": [
+   "US"
+  ],
+  "ms": 902,
+  "country": "US"
+ },
+ "http://213.220.149.172:8080": {
   "sites": [
    "dubizzle",
    "encar"
   ],
   "regions": [],
-  "ms": 1216,
-  "country": "GT"
+  "ms": 2741,
+  "country": "DE"
  },
  "http://157.20.244.28:3128": {
   "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 1919,
+  "country": "ID"
+ },
+ "socks4://103.102.142.98:4145": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3974,
+  "country": "ID"
+ },
+ "socks5://95.81.93.144:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3256,
+  "country": "FI"
+ },
+ "socks4://190.13.147.241:5678": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 6055,
+  "country": "CL"
+ },
+ "http://181.209.39.90:999": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3885,
+  "country": "AR"
+ },
+ "http://118.31.1.154:80": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 5566,
+  "country": "CN"
+ },
+ "socks4://213.165.185.211:4153": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 4178,
+  "country": "MT"
+ },
+ "socks4://202.146.230.102:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 6617,
+  "country": "ID"
+ },
+ "socks4://195.78.100.186:3629": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3671,
+  "country": "UA"
+ },
+ "http://103.122.67.73:8080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 4191,
+  "country": "ID"
+ },
+ "socks4://123.231.230.58:31196": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 7270,
+  "country": "ID"
+ },
+ "http://61.130.176.21:15576": {
+  "sites": [
    "dubizzle",
    "encar"
   ],
   "regions": [],
-  "ms": 1718,
+  "ms": 6375,
+  "country": "CN"
+ },
+ "socks4://200.105.252.170:5678": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 2966,
+  "country": "EC"
+ },
+ "socks4://202.87.210.20:57833": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 6485,
+  "country": "WS"
+ },
+ "socks5://95.84.178.39:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 4909,
+  "country": "RU"
+ },
+ "http://113.11.179.198:8080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 11209,
   "country": "ID"
  },
- "http://38.191.208.41:999": {
+ "http://213.169.33.12:8001": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 8614,
-  "country": "CO"
- },
- "http://190.94.213.80:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4827,
-  "country": "VE"
- },
- "http://128.0.7.197:80": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 6093,
-  "country": "SY"
- },
- "http://122.54.139.32:5050": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 10187,
-  "country": "PH"
- },
- "http://103.76.151.129:8181": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 8622,
-  "country": "ID"
- },
- "socks5://195.13.182.212:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 7180,
-  "country": "LV"
- },
- "socks5://45.74.31.41:16670": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 8114,
-  "country": "GB"
- },
- "http://192.203.0.118:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 9062,
-  "country": "PR"
- },
- "socks5://49.13.22.249:10814": {
-  "sites": [
-   "encar"
-  ],
-  "regions": [],
-  "ms": 3069,
-  "country": "HK"
- },
- "http://154.201.126.44:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1496,
-  "country": "IN"
- },
- "socks4://186.251.253.53:31337": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2242,
-  "country": "BR"
- },
- "socks4://78.128.124.108:5678": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2869,
+  "ms": 7373,
   "country": "BG"
  },
- "socks4://212.39.114.139:5678": {
+ "socks4://43.153.143.77:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 1497,
-  "country": "BA"
+  "ms": 1108,
+  "country": "JP"
  },
- "http://78.17.144.48:8443": {
+ "socks5://43.153.143.77:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 1130,
-  "country": "FI"
+  "ms": 1279,
+  "country": "JP"
+ },
+ "socks4://37.27.245.106:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 4926,
+  "country": "SE"
  },
  "socks4://186.225.132.13:4145": {
   "sites": [
@@ -1792,31 +1245,15 @@
    "encar"
   ],
   "regions": [],
-  "ms": 1403,
+  "ms": 1440,
   "country": "BR"
  },
- "socks4://31.43.33.55:4153": {
+ "http://154.3.76.16:999": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 1134,
-  "country": "UA"
- },
- "http://130.110.103.245:3128": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1294,
-  "country": "SA"
- },
- "socks4://170.254.173.6:1080": {
-  "sites": [
-   "encar"
-  ],
-  "regions": [],
-  "ms": 1302,
+  "ms": 1178,
   "country": "VE"
  },
  "http://123.57.213.24:3539": {
@@ -1824,372 +1261,272 @@
    "dubizzle"
   ],
   "regions": [],
-  "ms": 1597,
+  "ms": 2125,
   "country": "CN"
  },
- "socks4://180.191.22.50:4153": {
+ "socks4://197.156.240.66:5678": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 5994,
-  "country": "PH"
+  "ms": 1577,
+  "country": "NG"
  },
- "socks4://43.153.143.77:1080": {
+ "socks4://31.43.33.55:4153": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 2358,
-  "country": "JP"
+  "ms": 1205,
+  "country": "UA"
  },
- "socks4://58.65.142.254:8125": {
+ "http://78.17.144.48:8443": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 4080,
-  "country": "PK"
+  "ms": 2334,
+  "country": "FI"
  },
- "socks4://103.157.116.179:10810": {
+ "socks4://103.149.75.82:1080": {
   "sites": [
-   "dubizzle"
+   "dubizzle",
+   "encar"
   ],
   "regions": [],
-  "ms": 3281,
-  "country": "ID"
+  "ms": 2078,
+  "country": "BD"
  },
- "socks4://45.61.188.134:44499": {
+ "socks4://50.238.47.86:32100": {
   "sites": [
-   "copart"
+   "copart",
+   "dubizzle"
   ],
   "regions": [
    "US"
   ],
-  "ms": 1581,
+  "ms": 2046,
   "country": "US"
  },
- "socks4://45.116.230.79:4673": {
+ "socks5://37.18.73.60:5566": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 4188,
-  "country": "IN"
+  "ms": 1893,
+  "country": "SE"
+ },
+ "http://147.161.246.246:10810": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 10582,
+  "country": "CH"
+ },
+ "http://147.161.246.246:10264": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 10606,
+  "country": "CH"
+ },
+ "http://147.161.246.246:10101": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 13707,
+  "country": "CH"
  },
  "socks5://202.95.11.182:8767": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 7863,
+  "ms": 6946,
   "country": "SG"
  },
- "socks5://43.153.143.77:1080": {
+ "socks4://103.137.148.253:1080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 2681,
-  "country": "JP"
- },
- "http://38.49.142.174:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 8487,
-  "country": "MX"
- },
- "socks5://95.214.9.21:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1251,
-  "country": "FI"
- },
- "socks4://103.175.127.230:60606": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 7087,
-  "country": "BD"
+  "ms": 3738,
+  "country": "IN"
  },
  "http://177.234.217.93:999": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 2030,
+  "ms": 2285,
   "country": "EC"
  },
- "socks4://190.122.144.23:5678": {
+ "socks5://45.74.31.42:5592": {
   "sites": [
-   "dubizzle"
+   "copart"
   ],
-  "regions": [],
-  "ms": 6763,
-  "country": "AR"
- },
- "http://177.234.217.92:999": {
-  "sites": [
-   "dubizzle"
+  "regions": [
+   "US"
   ],
-  "regions": [],
-  "ms": 4052,
-  "country": "EC"
- },
- "http://154.3.76.16:999": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 1216,
-  "country": "VE"
- },
- "socks4://154.79.251.168:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4000,
-  "country": "KE"
- },
- "socks4://186.194.127.41:4153": {
-  "sites": [
-   "encar"
-  ],
-  "regions": [],
-  "ms": 4208,
-  "country": "BR"
- },
- "socks4://36.37.189.64:5678": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 4565,
-  "country": "KH"
- },
- "socks5://124.248.177.43:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5029,
-  "country": "KH"
- },
- "socks4://103.254.57.227:48293": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4324,
-  "country": "IN"
- },
- "socks4://160.119.159.98:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4791,
-  "country": "MZ"
- },
- "socks4://114.108.177.104:60984": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4334,
-  "country": "KR"
- },
- "socks4://85.237.62.189:3629": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5399,
-  "country": "RU"
- },
- "http://43.160.222.70:3128": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4539,
-  "country": "SG"
- },
- "http://202.73.27.116:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 7955,
-  "country": "ID"
- },
- "http://161.22.33.213:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 8084,
-  "country": "VE"
- },
- "socks4://167.250.137.129:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2478,
-  "country": "BR"
- },
- "socks4://179.27.86.36:4153": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5480,
-  "country": "UY"
- },
- "http://177.10.202.115:35452": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4566,
-  "country": "BR"
+  "ms": 4232,
+  "country": "US"
  },
  "socks5://203.189.153.170:1080": {
   "sites": [
    "encar"
   ],
   "regions": [],
-  "ms": 3998,
+  "ms": 3464,
   "country": "KH"
  },
- "http://37.191.76.218:7060": {
+ "socks4://78.128.124.108:5678": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 8890,
-  "country": "IR"
+  "ms": 4445,
+  "country": "BG"
  },
- "socks5://188.113.182.218:1080": {
+ "socks4://45.116.230.79:4673": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 2140,
-  "country": "RU"
+  "ms": 5020,
+  "country": "IN"
  },
- "http://131.0.120.162:9292": {
+ "socks5://5.75.133.113:10806": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 4915,
-  "country": "BR"
+  "ms": 2748,
+  "country": "IL"
  },
- "socks5://49.82.52.71:8989": {
+ "http://61.130.176.21:15608": {
   "sites": [
+   "dubizzle",
    "encar"
   ],
   "regions": [],
-  "ms": 2496,
+  "ms": 5755,
   "country": "CN"
  },
- "http://185.200.38.201:8080": {
+ "socks4://114.108.177.104:60984": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 7405,
-  "country": "TR"
+  "ms": 6852,
+  "country": "KR"
  },
- "http://43.229.79.241:8080": {
+ "http://203.205.33.131:1452": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 9174,
-  "country": "TH"
+  "ms": 7260,
+  "country": "VN"
  },
- "http://101.36.112.205:1081": {
+ "http://154.59.56.74:999": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 6605,
+  "ms": 5474,
+  "country": "VE"
+ },
+ "http://186.167.53.178:8282": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3545,
+  "country": "VE"
+ },
+ "socks5://45.74.31.41:16288": {
+  "sites": [
+   "copart"
+  ],
+  "regions": [
+   "US"
+  ],
+  "ms": 5179,
+  "country": "US"
+ },
+ "socks4://182.87.79.138:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 4967,
   "country": "HK"
  },
- "socks5://45.74.31.42:15554": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 7888,
-  "country": "MG"
- },
- "http://77.42.95.221:8889": {
+ "socks5://45.74.31.47:6813": {
   "sites": [
    "encar"
   ],
   "regions": [],
-  "ms": 1540,
-  "country": "US"
+  "ms": 6050,
+  "country": "MG"
  },
- "socks4://190.54.100.74:5678": {
+ "http://154.59.56.72:999": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 7854,
-  "country": "CL"
- },
- "http://177.136.86.155:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 10021,
-  "country": "AR"
- },
- "socks4://45.70.188.10:4153": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1226,
-  "country": "BR"
- },
- "socks4://200.8.235.10:4145": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 704,
+  "ms": 4772,
   "country": "VE"
  },
- "socks4://46.232.249.209:40001": {
+ "socks5://45.74.31.42:6842": {
   "sites": [
-   "dubizzle"
+   "copart"
   ],
-  "regions": [],
-  "ms": 925,
-  "country": "DE"
+  "regions": [
+   "US"
+  ],
+  "ms": 5746,
+  "country": "US"
  },
- "socks5://46.161.49.174:10808": {
+ "socks5://45.74.31.42:7086": {
+  "sites": [
+   "copart"
+  ],
+  "regions": [
+   "US"
+  ],
+  "ms": 6944,
+  "country": "US"
+ },
+ "socks5://45.74.31.47:4094": {
+  "sites": [
+   "copart"
+  ],
+  "regions": [
+   "US"
+  ],
+  "ms": 7729,
+  "country": "US"
+ },
+ "socks4://94.72.158.129:4153": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 3969,
-  "country": "PL"
+  "ms": 994,
+  "country": "BG"
+ },
+ "socks5://185.17.133.128:1080": {
+  "sites": [
+   "dubizzle",
+   "encar"
+  ],
+  "regions": [],
+  "ms": 1396,
+  "country": "RU"
  },
  "socks5://209.50.255.91:1080": {
   "sites": [
@@ -2198,8 +1535,107 @@
   "regions": [
    "US"
   ],
-  "ms": 4329,
+  "ms": 1366,
   "country": "US"
+ },
+ "http://103.133.26.11:8080": {
+  "sites": [
+   "dubizzle",
+   "encar"
+  ],
+  "regions": [],
+  "ms": 1803,
+  "country": "ID"
+ },
+ "socks5://183.80.59.62:1083": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 2425,
+  "country": "VN"
+ },
+ "socks4://77.65.50.118:34159": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3938,
+  "country": "PL"
+ },
+ "socks5://31.129.147.102:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 2007,
+  "country": "RU"
+ },
+ "socks5://193.218.118.128:1080": {
+  "sites": [
+   "copart"
+  ],
+  "regions": [
+   "US"
+  ],
+  "ms": 3432,
+  "country": "US"
+ },
+ "socks5://183.106.215.208:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 2814,
+  "country": "KR"
+ },
+ "socks4://203.188.245.98:52837": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 6760,
+  "country": "BD"
+ },
+ "http://45.65.137.218:999": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3902,
+  "country": "CO"
+ },
+ "socks4://124.41.213.174:5678": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3461,
+  "country": "NP"
+ },
+ "http://43.240.67.101:80": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 5521,
+  "country": "IN"
+ },
+ "http://45.65.224.125:999": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 1334,
+  "country": "AR"
+ },
+ "socks5://220.158.232.118:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 6795,
+  "country": "KH"
  },
  "socks5://45.74.31.40:5332": {
   "sites": [
@@ -2208,310 +1644,61 @@
   "regions": [
    "US"
   ],
-  "ms": 1940,
+  "ms": 3640,
   "country": "US"
- },
- "http://46.226.167.214:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1203,
-  "country": "FR"
- },
- "socks4://109.69.211.18:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4239,
-  "country": "CZ"
- },
- "socks5://183.80.59.62:1083": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1925,
-  "country": "VN"
- },
- "socks5://45.74.31.46:10044": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 3193,
-  "country": "IN"
- },
- "socks5://193.218.118.128:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1514,
-  "country": "US"
- },
- "http://45.65.224.125:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1814,
-  "country": "AR"
- },
- "socks4://103.36.10.131:44550": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4345,
-  "country": "ID"
- },
- "http://14.29.168.215:1080": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 4593,
-  "country": "CN"
- },
- "http://88.87.6.135:3030": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4886,
-  "country": "BG"
- },
- "socks4://138.94.28.234:40658": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3953,
-  "country": "BR"
- },
- "socks5://220.158.232.118:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4993,
-  "country": "KH"
- },
- "http://8.222.175.80:6128": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 6210,
-  "country": "SG"
- },
- "http://191.44.91.59:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5857,
-  "country": "SY"
- },
- "socks4://103.18.47.79:4145": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4346,
-  "country": "ID"
- },
- "socks5://103.176.187.228:9090": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 13117,
-  "country": "IN"
- },
- "socks4://103.244.107.106:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 6502,
-  "country": "ID"
  },
  "http://156.155.51.117:8080": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 9365,
+  "ms": 3897,
   "country": "ZA"
  },
- "socks4://37.193.125.68:1090": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 6200,
-  "country": "RU"
- },
- "socks5://45.74.31.47:17849": {
+ "socks5://45.74.31.40:4303": {
   "sites": [
    "copart"
   ],
   "regions": [
    "US"
   ],
-  "ms": 5730,
+  "ms": 4507,
   "country": "US"
  },
- "http://103.156.16.227:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 9080,
-  "country": "ID"
- },
- "http://149.40.242.118:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 10006,
-  "country": "PK"
- },
- "socks5://45.74.31.46:8001": {
+ "socks5://45.74.31.40:17682": {
   "sites": [
    "copart"
   ],
   "regions": [
    "US"
   ],
-  "ms": 5781,
+  "ms": 7517,
   "country": "US"
  },
- "http://38.191.194.27:999": {
+ "socks5://49.13.22.249:10808": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 6262,
-  "country": "CO"
+  "ms": 7134,
+  "country": "CA"
  },
- "socks5://45.74.31.42:13880": {
-  "sites": [
-   "copart"
-  ],
-  "regions": [
-   "US"
-  ],
-  "ms": 4343,
-  "country": "US"
- },
- "http://193.33.157.148:8080": {
+ "http://47.104.170.144:21056": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 5419,
-  "country": "SY"
+  "ms": 2677,
+  "country": "CN"
  },
- "http://157.20.253.16:3128": {
+ "http://103.39.51.84:8080": {
   "sites": [
    "dubizzle",
    "encar"
   ],
   "regions": [],
-  "ms": 2480,
+  "ms": 1413,
   "country": "ID"
- },
- "socks4://156.225.31.18:7890": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5839,
-  "country": "HK"
- },
- "http://103.86.135.98:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3758,
-  "country": "PK"
- },
- "http://147.161.246.246:11011": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 15885,
-  "country": "CH"
- },
- "http://40.160.36.112:999": {
-  "sites": [
-   "copart",
-   "dubizzle"
-  ],
-  "regions": [
-   "US"
-  ],
-  "ms": 4233,
-  "country": "US"
- },
- "http://147.161.246.246:11826": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 13329,
-  "country": "CH"
- },
- "socks5://45.74.31.46:8146": {
-  "sites": [
-   "copart"
-  ],
-  "regions": [
-   "US"
-  ],
-  "ms": 6708,
-  "country": "US"
- },
- "http://103.166.159.93:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 8610,
-  "country": "ID"
- },
- "socks4://117.102.115.158:4153": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1888,
-  "country": "ID"
- },
- "http://176.111.37.216:39811": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1006,
-  "country": "HK"
- },
- "socks5://172.81.111.156:10001": {
-  "sites": [
-   "encar"
-  ],
-  "regions": [],
-  "ms": 1581,
-  "country": "HK"
  },
  "http://103.39.51.178:8080": {
   "sites": [
@@ -2519,7 +1706,7 @@
    "encar"
   ],
   "regions": [],
-  "ms": 1225,
+  "ms": 1451,
   "country": "ID"
  },
  "http://103.39.51.207:8080": {
@@ -2528,64 +1715,7 @@
    "encar"
   ],
   "regions": [],
-  "ms": 1226,
-  "country": "ID"
- },
- "http://103.39.51.84:8080": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 1243,
-  "country": "ID"
- },
- "socks5://5.255.117.250:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1289,
-  "country": "NL"
- },
- "socks4://103.154.47.205:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3875,
-  "country": "NP"
- },
- "http://119.82.244.38:6060": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4699,
-  "country": "ID"
- },
- "socks4://213.173.75.222:5678": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2694,
-  "country": "AT"
- },
- "http://149.104.94.47:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1910,
-  "country": "SA"
- },
- "socks4://115.85.86.114:5678": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3955,
+  "ms": 1421,
   "country": "ID"
  },
  "http://190.71.72.85:2525": {
@@ -2593,210 +1723,186 @@
    "dubizzle"
   ],
   "regions": [],
-  "ms": 928,
+  "ms": 778,
   "country": "CO"
  },
- "socks4://102.215.245.6:4153": {
+ "socks4://115.85.86.114:5678": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 2753,
-  "country": "ZA"
+  "ms": 2704,
+  "country": "ID"
  },
- "socks4://103.155.42.38:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3809,
-  "country": "BD"
- },
- "http://45.7.65.43:999": {
+ "socks4://159.192.97.129:5678": {
   "sites": [
    "encar"
   ],
   "regions": [],
-  "ms": 2583,
-  "country": "MX"
- },
- "http://79.52.108.2:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5786,
-  "country": "IT"
- },
- "socks4://171.4.85.65:5678": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3527,
+  "ms": 6280,
   "country": "TH"
  },
- "http://103.184.67.115:8181": {
+ "socks4://213.173.75.222:5678": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 3554,
-  "country": "ID"
+  "ms": 2837,
+  "country": "AT"
+ },
+ "socks4://31.43.63.70:4145": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 2788,
+  "country": "UA"
  },
  "socks4://123.253.124.28:5678": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 3881,
+  "ms": 3191,
   "country": "IN"
  },
- "socks4://200.105.192.6:5678": {
+ "http://187.251.224.167:80": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 5316,
-  "country": "BO"
+  "ms": 3146,
+  "country": "MX"
  },
- "http://103.31.103.71:8080": {
+ "socks4://103.74.227.130:56417": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 3011,
-  "country": "PK"
+  "ms": 4065,
+  "country": "IN"
+ },
+ "http://154.88.164.160:999": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 7099,
+  "country": "DO"
  },
  "socks4://88.87.79.18:3629": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 3773,
+  "ms": 3626,
   "country": "RU"
  },
- "socks4://119.93.82.236:1080": {
+ "socks5://107.175.130.24:1080": {
   "sites": [
+   "copart",
    "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3221,
-  "country": "PH"
- },
- "http://103.152.238.77:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 3998,
-  "country": "ID"
- },
- "http://59.124.62.9:3128": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5888,
-  "country": "TW"
- },
- "http://38.253.85.3:999": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 7669,
-  "country": "DO"
- },
- "socks4://181.129.182.138:5678": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 1181,
-  "country": "CO"
- },
- "http://78.101.198.138:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 4730,
-  "country": "QA"
- },
- "http://109.224.242.98:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5407,
-  "country": "TR"
- },
- "socks5://27.54.121.90:1080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 5924,
-  "country": "PK"
- },
- "socks4://103.115.255.225:36331": {
-  "sites": [
-   "dubizzle",
-   "encar"
-  ],
-  "regions": [],
-  "ms": 3664,
-  "country": "BD"
- },
- "http://102.23.239.2:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 2800,
-  "country": "ZA"
- },
- "socks5://45.74.31.42:5802": {
-  "sites": [
-   "copart"
   ],
   "regions": [
    "US"
   ],
-  "ms": 6871,
+  "ms": 760,
   "country": "US"
  },
- "socks5://101.36.112.205:1081": {
+ "socks4://139.255.94.123:57853": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 8904,
-  "country": "HK"
- },
- "http://203.130.23.250:8080": {
-  "sites": [
-   "dubizzle"
-  ],
-  "regions": [],
-  "ms": 13144,
-  "country": "PK"
+  "ms": 3861,
+  "country": "ID"
  },
  "socks4://195.78.100.162:3629": {
   "sites": [
    "dubizzle"
   ],
   "regions": [],
-  "ms": 6723,
+  "ms": 2115,
   "country": "UA"
  },
- "socks5://49.13.22.249:10807": {
+ "socks5://5.255.117.250:1080": {
   "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 2514,
+  "country": "NL"
+ },
+ "http://182.253.109.209:8080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 7648,
+  "country": "ID"
+ },
+ "socks5://27.219.186.8:1081": {
+  "sites": [
+   "copart"
+  ],
+  "regions": [
+   "US"
+  ],
+  "ms": 5933,
+  "country": "US"
+ },
+ "http://61.130.176.21:16442": {
+  "sites": [
+   "dubizzle",
    "encar"
   ],
   "regions": [],
-  "ms": 5721,
-  "country": "HU"
+  "ms": 5189,
+  "country": "CN"
+ },
+ "socks5://45.74.31.40:4055": {
+  "sites": [
+   "copart"
+  ],
+  "regions": [
+   "US"
+  ],
+  "ms": 9611,
+  "country": "US"
+ },
+ "socks5://8.40.19.133:1080": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 3514,
+  "country": "US"
+ },
+ "socks4://190.220.25.42:4153": {
+  "sites": [
+   "dubizzle"
+  ],
+  "regions": [],
+  "ms": 6418,
+  "country": "AR"
+ },
+ "socks5://5.75.133.113:10811": {
+  "sites": [
+   "dubizzle",
+   "encar"
+  ],
+  "regions": [],
+  "ms": 4495,
+  "country": "IL"
+ },
+ "socks5://45.74.31.47:4119": {
+  "sites": [
+   "copart"
+  ],
+  "regions": [
+   "US"
+  ],
+  "ms": 6998,
+  "country": "US"
  }
 }
